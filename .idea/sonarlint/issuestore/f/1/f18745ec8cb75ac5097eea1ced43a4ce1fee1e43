@@ -1,0 +1,26 @@
+
+:squid:S1659!"#Declare "right" on a separate line.(çùà¶
+6squid:S1659."Declare "p" on a separate line.(›Õæ¯
+6squid:S1659."Declare "s" on a separate line.(›Õæ¯
+6squid:S1659."Declare "x" on a separate line.(›Õæ¯
+7squid:S1659·"Declare "y" on a separate line.(ŞŸ…½
+7squid:S1659·"Declare "z" on a separate line.(ŞŸ…½
+7squid:S1659·"Declare "s" on a separate line.(ŞŸ…½
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹ŸŒñ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø…‡ßıÿÿÿÿ
+`squid:S2583ã"CChange this condition so that it does not always evaluate to "true"(òöÀšùÿÿÿÿ
+Esquid:S1125•"(Remove the literal "true" boolean value.(ëš¾Šøÿÿÿÿ
+Esquid:S1125€"(Remove the literal "true" boolean value.(êÉ°ïûÿÿÿÿ
+Rsquid:S2696@"6Make the enclosing method "static" or remove this set.(ûªÙĞøÿÿÿÿ
+Nsquid:S2696’"6Make the enclosing method "static" or remove this set.(’çºÛ
+Nsquid:S2696"6Make the enclosing method "static" or remove this set.(°€Ï×
+Usquid:S1226á">Introduce a new variable instead of reusing the parameter "x".(Åéåx
+1squid:S1220""Move this file to a named package.
+nsquid:S3776,"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(âÕü±ùÿÿÿÿ
+isquid:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(èğ€
+jsquid:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¿ÅÒ
+jsquid:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¼Æ°
+\squid:S2259Ú"?A "NullPointerException" could be thrown; "s" is nullable here.(ˆ¿µ“øÿÿÿÿ
+asquid:S3358Î"DExtract this nested ternary operation into an independent statement.(òöÀšùÿÿÿÿ
+asquid:S3358ã"DExtract this nested ternary operation into an independent statement.(òöÀšùÿÿÿÿ
